@@ -1,0 +1,86 @@
+body
+{
+	background-color: white;
+	color: #777777;
+	font-family: sans--serif;
+	line-height: 26px;
+}
+.purple_color
+{
+	color: #8845f4
+}
+.container
+{
+	padding: 5%;
+	display: inline-block;
+}
+.half_width
+{
+	width: 50%;
+	float: left;
+}
+.side_img
+{
+	width: 50%;
+	padding-left: 25%;
+	padding-top: 15%;
+}
+h1
+{
+	font-size: 30px;
+}
+.primary_btn
+{
+	background-color:#8845f4;
+	color: white;
+	border-radius: 20px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	font-weight: bold;
+}
+.leftbrdr
+{
+	border-left: 2px solid silver;
+	padding-left: 5px;
+	text-align: justify;
+}
+.tpbrdr
+{
+	border-bottom: 2px solid silver;
+	font-family:Arial;
+	font-size:20px;
+	font-weight: bold;
+}
+.quote
+{
+	padding: 5%;
+	font-family:Arial;
+	color:#FCA200;
+	font-size:50px;
+	font-weight: bold;
+}
+.hr_line
+{
+	position: absolute;
+	width:65%;
+	border: 1px solid lightgray;
+}
+.hr_linetxt
+{
+	color: lightgray;
+	padding-left:68%;
+	font-size: 35px;
+	font-weight: bold;
+}
+.experiences
+{
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+.experience-item
+{
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
